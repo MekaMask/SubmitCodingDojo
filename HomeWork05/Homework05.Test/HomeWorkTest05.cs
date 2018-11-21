@@ -4,7 +4,7 @@ using Homework05.Lib;
 
 namespace Homework05.Test
 {
-    public class UnitTest1
+    public class HomeWorkTest05
     {
         [Fact]
         public void Test1()
